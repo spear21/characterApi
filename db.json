@@ -1,0 +1,89 @@
+{
+  "books": [
+    {
+      "id": "iEuOBYkU",
+      "title": "The Little Book of Semaphores",
+      "author": "Allen B. Downey "
+    },
+    {
+      "id": "0kFaJHB2",
+      "title": "Programming Pearls",
+      "author": "Jon Bentley"
+    },
+    {
+      "id": "ukjXyUuM",
+      "title": "The Elements of Programming Style",
+      "author": "Brian W. Kernighan and Phillip J. Plauger"
+    },
+    {
+      "id": "BDUDxb6F",
+      "title": "The New Turing Omnibus",
+      "author": "Alexander K. Dewdney"
+    },
+    {
+      "id": "kyEulEFG",
+      "title": "This Book",
+      "author": "this Author"
+    }
+  ],
+  "race": [
+    {
+      "id": "iEuOwekU",
+      "title": "Orc"
+    },
+    {
+      "id": "O9oELOcM",
+      "name": "Human"
+    },
+    {
+      "id": "zsrZj8xF",
+      "name": "Elf"
+    },
+    {
+      "id": "ErBSeNaq",
+      "name": "Dwarf"
+    },
+    {
+      "id": "DGJLSmo5",
+      "name": "Half-Orc"
+    },
+    {
+      "id": "4VZZknZx",
+      "name": "Gnome"
+    },
+    {
+      "id": "0hNheiUx",
+      "name": "Dragonborn"
+    },
+    {
+      "id": "Hfdf4TKe",
+      "name": "Half-Elf"
+    },
+    {
+      "id": "oyLCsKq5",
+      "name": "Tiefling"
+    },
+    {
+      "id": "KA51rOEa",
+      "name": "Leonin"
+    },
+    {
+      "id": "T4QL0Lz8",
+      "name": "Satyr"
+    },
+    {
+      "id": "oGuYnUVo",
+      "name": "Orc of Exandria"
+    }
+  ],
+  "classes": [
+    {
+      "id": "iehOwekU",
+      "title": "Halfling"
+    },
+    {
+      "id": "35gVyWTc",
+      "name": "Cleric"
+    }
+  ]
+}
